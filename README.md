@@ -1,2 +1,2 @@
-# dlcourse.ai-assignments-
+# dlcourse.ai-assignments
 Assignments from dlcourse.ai
